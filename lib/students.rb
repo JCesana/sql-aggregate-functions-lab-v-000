@@ -1,5 +1,9 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
 def highest_student_gpa
+  asdfas
+  dfasdfas
+  sfdsaf
+  asfsadf sad fa sf asdf as
   
 end
 
